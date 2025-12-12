@@ -23,7 +23,7 @@ This project showcases the power of **React Hooks** for state management and com
 
 ## 📸 Screenshots
 
-![App Screenshot](path/to/your/screenshot.png)
+![App Screenshot](Queue Management.png)
 
 ## 🛠️ Tech Stack
 
